@@ -6,7 +6,7 @@
   "author": "Gustavo Laita <glaita@digbang.com>",
   "dependencies": {
     "eslint-config-react-app": "^5.1.0",
-    "gatsby": "^2.18.8",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-manifest": "^2.2.31",
     "gatsby-plugin-offline": "^3.0.27",
